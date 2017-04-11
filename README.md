@@ -53,7 +53,7 @@
 * app/js/plugins.js & app/js/vendors/modernizr-$.min.js are JS from [Materialize](http://materializecss.com/)
 
 #### Credits :
-* [Materialize](http://materializecss.com/) because it's my favorite boilerplate
+* [Materialize](http://materializecss.com/) because it's my favorite framework
 * [Node](https://nodejs.org/en/) because that's my favorite tool ATM
 * [Gulp](http://gulpjs.com/) because it's faster than Grunt and Gulp sound better than Grunt
 * [SaSS](http://sass-lang.com/) because it saved me a lot of time
